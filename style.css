@@ -1,0 +1,37 @@
+body{
+    background-color: #399918;
+}
+
+.container{
+    width: 70%;
+    height: 50vh;
+    background-color: #FFAAAA;
+    margin-top: 10%;
+    margin-left: 15%;
+    border-radius: 20px;
+}
+
+h1{
+    padding: 10px 30px;
+    margin-left: 35%;
+}
+
+input{
+    font-size: 20px;
+    margin-left: 45px;
+    border-radius: 5px;
+    
+}
+.sub_mit{
+    margin-top: 60px;
+    margin-left:40%;
+    
+}
+.agecal{
+    
+    padding: 20px; 
+    margin-top: 30px;          
+    margin-left: 45PX;           
+    width: 85%;  
+    font-size: 20px;  
+}
